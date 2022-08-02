@@ -1,0 +1,4 @@
+baseURL = 'http://mattmastin.com/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "ananke"
