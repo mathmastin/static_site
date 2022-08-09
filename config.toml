@@ -1,4 +1,12 @@
 baseURL = 'http://mattmastin.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Matt Mastin'
 theme = "ananke"
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/mathmastin"
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/matt-mastin-66667b17/"
