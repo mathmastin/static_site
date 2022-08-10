@@ -2,6 +2,8 @@ baseURL = 'http://mattmastin.com/'
 languageCode = 'en-us'
 title = 'Matt Mastin'
 theme = "ananke"
+author = "Matt Mastin"
+favicon = "static/favicon.ico"
 
 [[params.ananke_socials]]
 name = "twitter"

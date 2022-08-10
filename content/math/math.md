@@ -6,3 +6,4 @@ weight: 50
 draft: false
 ---
  
+ There may occassionaly be interesting things about math here.
