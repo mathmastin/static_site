@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = ''
 languageCode = 'en-us'
 title = 'Matt Mastin'
 theme = ["hugo-embed-pdf-shortcode", "ananke"]

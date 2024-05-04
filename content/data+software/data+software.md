@@ -1,5 +1,5 @@
 ---
-title: Software
+title: Data + Software
 menu: "main"
 weight: 50
 draft: false

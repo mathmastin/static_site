@@ -1,4 +1,0 @@
----
-title: "Data + Math + Software"
-
----

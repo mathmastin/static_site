@@ -1,5 +1,5 @@
 ---
-title: "Data + Math + Software"
+title: "Data + Software + Math"
 
 ---
 <!-- **Currently** Data Scientist, Machine Learning at [Next Insurance](https://www.nextinsurance.com/)
