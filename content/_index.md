@@ -10,9 +10,13 @@ title: "Data + Math + Software"
 
 {{< embed-pdf url="MastinResume2023.pdf" >}}
 
+
+## Contact Me
+
 <!-- Staff Data Scientist @ [Mailchimp](https://www.mailchimp.com)
 
 Sr. Data Scientist @ [Mailchimp](https://www.mailchimp.com)
 
 Data Software Engineer @ [Mailchimp](https://www.mailchimp.com) -->
 
+{{< form-contact action="https://formspree.io/matt.mastin+contactform@gmail.com" >}}
