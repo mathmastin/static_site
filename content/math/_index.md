@@ -1,4 +1,4 @@
 ---
-title: "Data + Math + Software"
+title: "Data + Software + Math"
 
 ---
