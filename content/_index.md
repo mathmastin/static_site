@@ -19,4 +19,4 @@ Sr. Data Scientist @ [Mailchimp](https://www.mailchimp.com)
 
 Data Software Engineer @ [Mailchimp](https://www.mailchimp.com) -->
 
-{{< form-contact action="https://formspree.io/matt.mastin+contactform@gmail.com" >}}
+{{< form-contact action="https://formspree.io/f/mnqewoko" >}}
