@@ -1,9 +1,11 @@
 baseURL = 'http://mattmastin.com/'
 languageCode = 'en-us'
 title = 'Matt Mastin'
-theme = "ananke"
+theme = ["hugo-embed-pdf-shortcode", "ananke"]
 author = "Matt Mastin"
 favicon = "static/favicon.ico"
+
+enableInlineShortcodes = true
 
 [[params.ananke_socials]]
 name = "twitter"
