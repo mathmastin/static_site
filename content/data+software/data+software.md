@@ -5,8 +5,7 @@ weight: 50
 draft: false
 ---
 
-## Github
+## Github Profiles
 
-[mattmastin](https://github.com/mattmastin)
-
-[mathmastin](https://github.com/mathmastin)
+- [mattmastin](https://github.com/mattmastin)
+- [mathmastin](https://github.com/mathmastin)
