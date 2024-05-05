@@ -15,3 +15,10 @@ url = "https://twitter.com/mathmastin"
 name = "linkedin"
 url = "https://www.linkedin.com/in/matt-mastin-66667b17/"
 
+[[params.ananke_socials]]
+name = "github"
+url = "https://www.github.com/mattmastin"
+label = "mattmastin"
+
+[params]
+  recent_posts_number = 0
