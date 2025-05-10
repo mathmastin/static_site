@@ -8,7 +8,7 @@ title: "Data + Software + Math"
 
 **Previously** Sr. Staff Data Scientist @ [Mailchimp](https://www.mailchimp.com) -->
 
-{{< embed-pdf url="MastinResume2023.pdf" >}}
+{{< embed-pdf url="MastinResume.pdf" >}}
 
 
 ## Contact Me
